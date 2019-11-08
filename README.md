@@ -1,0 +1,1 @@
+# krsoftware-odoo
